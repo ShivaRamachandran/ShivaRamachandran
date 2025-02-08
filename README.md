@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruth097&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaRamachandran" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=DIGITAL AI+ENGINEER;DATA+ENTHUSIAST'/>
 </div>
 
 ## **ABOUT ME**https://github.com/ShivaRamachandran/ShivaRamachandran.git
