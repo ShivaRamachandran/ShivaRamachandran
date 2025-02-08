@@ -1,18 +1,18 @@
-<h2 align="center">Hello, I'm Sukruth A V</h2>
+<h2 align="center">Hello, I'm Shiva R</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruth097&label=Profile%20views&color=0e75b6&style=flat" alt="Sukruth097" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruth097&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaRamachandran" /> </p>
 
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist;Data+Enthusiast'/>
 </div>
 
-## **ABOUT ME**https://github.com/Sukruth097/sukruth097.git
+## **ABOUT ME**https://github.com/ShivaRamachandran/ShivaRamachandran.git
 
 - 🔭 I’m currently working as **Data Scientist** 
 
 - 🌱 I’m currently working on **ML,DL and  MLops Tools.**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/Sukruth097?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/ShivaRamachandran?tab=repositories)
 
 - 👨‍💻 Completed **IBM ML and Full Stack Data Science certificates.** 
 
@@ -40,7 +40,7 @@
     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
      <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> </a>
-    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
+   
     
    
    
@@ -49,13 +49,5 @@
 
 
 
-## **CONNECT WITH ME**:
-<p align="left">
-<a href = "https://www.linkedin.com/in/sukruth-a-v-bb78321a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href = "https://www.instagram.com/sukruth_av/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href='https://github.com/Sukruth097?tab=followers'>
-   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/sukruth097?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-<br>
-</a>
 
