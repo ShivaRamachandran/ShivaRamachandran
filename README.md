@@ -8,13 +8,12 @@
 
 ## **ABOUT ME**https://github.com/ShivaRamachandran/ShivaRamachandran.git
 
-- 🔭 I’m currently working as **Data Scientist** 
+- 🔭 I’m currently working as **DIGITAL AI ENGINEER** 
 
-- 🌱 I’m currently working on **ML,DL and  MLops Tools.**
+- 🌱 I’m currently working on **ML,DL and NLP.**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/ShivaRamachandran?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/ShivaRamachandran?tab=repositories)** 
 
-- 👨‍💻 Completed **IBM ML and Full Stack Data Science certificates.** 
 
 
 
