@@ -8,9 +8,9 @@
 
 ## **ABOUT ME**https://github.com/ShivaRamachandran/ShivaRamachandran.git
 
-- 🔭 I’m currently working as **DIGITAL AI ENGINEER** 
+- 🔭 I’m currently working as **GEN AI ENGINEER** 
 
-- 🌱 I’m currently working on **ML,DL and NLP.**
+- 🌱 I’m currently working on **ML,DL,NLP, Agentic AI.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/ShivaRamachandran?tab=repositories)** 
 
